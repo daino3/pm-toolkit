@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Toolkit"
+  short_description: "Run a connected PM command center"
+  default_prompt: "Show my PM dashboard and prioritize what needs my attention."
